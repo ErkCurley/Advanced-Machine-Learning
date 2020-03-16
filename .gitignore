@@ -1,0 +1,7 @@
+Data/
+runs/
+gs/
+.Rproj.user/
+.ipynb_checkpoints/
+.RData
+.Rhistory
